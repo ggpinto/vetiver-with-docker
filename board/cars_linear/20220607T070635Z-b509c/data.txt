@@ -1,0 +1,9 @@
+file: cars_linear.rds
+file_size: 5200
+pin_hash: b509c2db9e42e03b
+type: rds
+title: 'cars_linear: a pinned list'
+description: An OLS linear regression model
+created: 20220607T070635Z
+api_version: 1.0
+user: []
